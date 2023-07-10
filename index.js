@@ -16,7 +16,7 @@ document.getElementById('get-started-btn').addEventListener('click', () => {
   });
   
   function createBookElement(book) {
-    const bookElement = document.createElement('div');
+    const bookElement = document.createElement('div'); 
     bookElement.classList.add('book');
   
     const bookImage = document.createElement('img');
