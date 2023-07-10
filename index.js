@@ -21,7 +21,7 @@ document.getElementById('get-started-btn').addEventListener('click', () => {
   
     const bookImage = document.createElement('img');
     bookImage.src = book.image;
-    bookImage.classList.add('book-image');
+    bookImage.classList.add('book-image'); 
     bookElement.appendChild(bookImage);
   
     const bookInfoContainer = document.createElement('div');
