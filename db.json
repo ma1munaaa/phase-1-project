@@ -1,0 +1,84 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "kite runner",
+      "author": "husseiny",
+      "description": "This is the description for Book One.",
+      "price": "$9.99",
+      "copies": 3
+    },
+    {
+      "id": 2,
+      "title": "Book Two",
+      "author": "mohamed",
+      "description": "This is the description for Book Two.",
+      "price": "$12.99",
+      "copies": 5
+    },
+    {
+      "id": 3,
+      "title": "Book Three",
+      "author": "ali",
+      "description": "This is the description for Book Three.",
+      "price": "$11.99",
+      "copies": 2
+    },
+    {
+      "id": 4,
+      "title": "Book Four",
+      "author": "farah",
+      "description": "This is the description for Book Four.",
+      "price": "$14.99",
+      "copies": 4
+    },
+    {
+      "id": 5,
+      "title": "Book Five",
+      "author": "hassan",
+      "description": "This is the description for Book Five.",
+      "price": "$8.99",
+      "copies": 6
+    },
+    {
+      "id": 6,
+      "title": "Book Six",
+      "author": "zakaria",  
+      "description": "This is the description for Book Six.",
+      "price": "$10.99",
+      "copies": 1
+    },
+    {
+      "id": 7,
+      "title": "Book Seven",
+      "author": "amin",
+      "description": "This is the description for Book Seven.",
+      "price": "$15.99",
+      "copies": 3
+    },
+    {
+      "id": 8,
+      "title": "Book Eight",
+      "author": "abdull",
+      "description": "This is the description for Book Eight.",
+      "price": "$7.99",
+      "copies": 2
+    },
+    {
+      "id": 9,
+      "title": "Book Nine",
+      "author": "hanad",
+      "description": "This is the description for Book Nine.",
+      "price": "$13.99",
+      "copies": 4
+    },
+    {
+      "id": 10,
+      "title": "Book Ten",
+      "author": "musa",
+      "description": "This is the description for Book Ten.",
+      "price": "$9.99",
+      "copies": 5
+    }
+  ]
+}
