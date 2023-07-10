@@ -28,7 +28,7 @@ The following technologies were used to develop this application:
 
 ```bash
 
-- git clone 
+- git clone git@github.com:maimuna003/phase-1-project.git
 
 ```
 
