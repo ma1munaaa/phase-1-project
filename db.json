@@ -1,45 +1,57 @@
-{
+
+    {
   "books": [
     {
       "id": 1,
       "title": "kite runner",
-      "Author": "khaled Hosseini"
+      "Author": "khaled Hosseini",
+      "image":"https://books.google.com/books/about/The_Kite_Runner.html?id=i9qgrEqqGbgC&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=1",
       "price": "$9.99",
+      "description":"Khaled Hosseini's The Kite Runner combines a compelling, moving narrative, memorable characters and situtations, powerful depictions of suffering and guilt, an urgent quest for redemption, and an intense engagement with the fraught and complex history and politics of Afghanistan and its relations with American culture. The essays in this volume look afresh at this ... work, considering its critical reception, its style, structure and themes, its mythical, moral, historical and political dimensions, its continued relevance in the twenty-first century, and its adaptations as a film, stage play, and graphic novel",
       "copies": 3
     },
     {
       "id": 2,
       "title":"And the mountains Echoed",
       "Author": "khaled Hosseini",
+      "image":"https://books.google.com/books/about/And_the_Mountains_Echoed.html?id=Bd24esvOwawC&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=1",
       "price": "$12.99",
+      "description":"And the Mountains Echoed (2013) concerns a brother and sister separated when the latter is given up for adoption because of their family's straitened circumstances. The novel chronicles the decades following the siblings' divergence in 1950s Afghanistan",
       "copies": 5
     },
     {
       "id": 3,
       "title": "Sea prayers",
       "author": "Khaled Hosseini",
+      "image" :"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsAhmhBRrJWklN6K8jbBfJ2CcLgjFYUlyx0nSZU9fvrtR8YG6x",
       "price": "$11.99",
+      "description":"Written in the form of a letter, Sea Prayer is a father's reflection as he watches over his sleeping son, on the dangerous journey across the sea that lies before them. It is also an account of their life in Homs, Syria, before the war, and of that city's swift transformation from a home into a deadly war zone.",
       "copies": 2
     },
     {
       "id": 4,
       "title": "Ayesha at Last",
       "author": "Uzma Jalaluddin",
+      "image":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaVBCSarx6nXgCjuJf47z9ddVIiJ1PALvcfLGDdeSXL1YSC7Vl",
       "price": "$14.99",
+      "description":"Ayesha at Last is a story set in suburban Toronto, based on Muslim families living there. It starts off with a bang—a snobbish man judging a struggling hijabi woman getting into her car. The story traces the life of Ayesha Shamsi, who wants to be a poet but is settling for a teaching job to pay off her family debts.",
       "copies": 4
     },
     {
       "id": 5,
       "title": "Verity",
       "author": "Colleen Hover",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjwb5HZ2mhlPY3n-vip-zrFgAwT19V_k75-KcWuciRUSFddL91",
       "price": "$8.99",
+      "description":"There's a love story, and fidelity, but it is predominantly a creepy thriller. And a mindfuck, if we're being honest. Verity is mainly about three people - struggling author Lowen Ashleigh, a man called Jeremy Crawford, and Jeremy's wife, Verity, who was recently left incapacitated by a car accident.",
       "copies": 6
     },
     {
       "id": 6,
       "title": "The Alchemist",
-      "author": "Paulo Coehlo",  
-      "description": "This is the description for Book Six.",
+      "author": "Paulo Coehlo",
+        "image":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQURpp5v7GLB_1VXd-I7x8IphoB79RHBKuFwpUGtMTkaW7BJYxw",
+      "description": "The Alchemist (1988) follows the story of a young Andalusian shepherd, who travels to the pyramids of Egypt to find a treasure he has recurrently dreamed about. On his journey, he has to overcome multiple obstacles – through which he learns valuable life lessons.",
       "price": "$10.99",
       "copies": 1
     },
@@ -47,28 +59,36 @@
       "id": 7,
       "title": "Pride and Prejudice",
       "author": "Jone Austen",
+      "image":"https://books.google.com/books/about/Pride_and_Prejudice.html?id=kQ0mAAAAMAAJ&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=1",
       "price": "$15.99",
+      "description":"Pride and Prejudice follows the turbulent relationship between Elizabeth Bennet, the daughter of a country gentleman, and Fitzwilliam Darcy, a rich aristocratic landowner. They must overcome the titular sins of pride and prejudice in order to fall in love and marry.",
       "copies": 3
     },
     {
       "id": 8,
       "title": "Maybe Now",
       "author": "Colleen Hover",
+      "image":"https://books.google.com/books/about/Maybe_Now.html?id=oRVqEAAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=1",
       "price": "$7.99",
+      "description":"Friendship, loyalty, or love? Ridge and Sydney are thrilled to finally be together guilt-free. But as the two of them navigate this freedom, Warren and Bridgette's relationship is as tumultuous as ever, and Maggie grapples with her illness.",
       "copies": 2
     },
     {
       "id": 9,
       "title": "The devil's Advocate",
       "author": "Morris West",
+      "image":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSl73xq0TTpNqNwBgxxutNENZlcTVTSAUY_ttrlaFgDe3kWWnHV",
       "price": "$13.99",
+      "description":"The Devil's Advocate, Morris West's best-selling novel, is a deft exploration of the meaning of faith. In an impoverished village in southern Italy, the life and death of Giacamo Nerone has inspired talk of sainthood.",
       "copies": 4
     },
     {
       "id": 10,
       "title": "Daughter of Silence",
       "author": "Morris West",
+      "image":"https://books.google.com/books/about/Daughter_of_Silence.html?id=os8lDwAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=1",
       "price": "$9.99",
+      "description":"Plot outline. In mid-summer in a Tuscan village a twenty-four-year-old woman shoots the town's mayor dead in revenge for the death of her mother during the war. The subsequent trial brings out secrets both personal and political.",
       "copies": 5
     }
   ]
