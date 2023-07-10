@@ -10,7 +10,7 @@ document.getElementById('get-started-btn').addEventListener('click', () => {
   
         data.books.forEach(book => {
           const bookElement = createBookElement(book);
-          bookListContainer.appendChild(bookElement); 
+          bookListContainer.appendChild(bookElement);  
         });
       });
   });
