@@ -1,6 +1,6 @@
 document.getElementById('get-started-btn').addEventListener('click', () => {
     // Fetch book data from JSON file
-    fetch('https://api.npoint.io/b7761f8d4b23c462d460')
+    fetch('https://api.npoint.io/e6be3f4829293dbc80c6')
       .then(response => response.json())
       .then(data => {
         document.getElementById('welcome-container').style.display = 'none';
