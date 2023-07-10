@@ -14,7 +14,7 @@ document.getElementById('get-started-btn').addEventListener('click', () => {
         });
       });
   });
-  
+ // create book element
   function createBookElement(book) {
     const bookElement = document.createElement('div');
     bookElement.classList.add('book');
