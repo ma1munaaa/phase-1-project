@@ -3,80 +3,71 @@
     {
       "id": 1,
       "title": "kite runner",
-      "author": "husseiny",
-      "description": "This is the description for Book One.",
+      "Author": "khaled Hosseini"
       "price": "$9.99",
       "copies": 3
     },
     {
       "id": 2,
-      "title": "Book Two",
-      "author": "mohamed",
-      "description": "This is the description for Book Two.",
+      "title":"And the mountains Echoed",
+      "Author": "khaled Hosseini",
       "price": "$12.99",
       "copies": 5
     },
     {
       "id": 3,
-      "title": "Book Three",
-      "author": "ali",
-      "description": "This is the description for Book Three.",
+      "title": "Sea prayers",
+      "author": "Khaled Hosseini",
       "price": "$11.99",
       "copies": 2
     },
     {
       "id": 4,
-      "title": "Book Four",
-      "author": "farah",
-      "description": "This is the description for Book Four.",
+      "title": "Ayesha at Last",
+      "author": "Uzma Jalaluddin",
       "price": "$14.99",
       "copies": 4
     },
     {
       "id": 5,
-      "title": "Book Five",
-      "author": "hassan",
-      "description": "This is the description for Book Five.",
+      "title": "Verity",
+      "author": "Colleen Hover",
       "price": "$8.99",
       "copies": 6
     },
     {
       "id": 6,
-      "title": "Book Six",
-      "author": "zakaria",  
+      "title": "The Alchemist",
+      "author": "Paulo Coehlo",  
       "description": "This is the description for Book Six.",
       "price": "$10.99",
       "copies": 1
     },
     {
       "id": 7,
-      "title": "Book Seven",
-      "author": "amin",
-      "description": "This is the description for Book Seven.",
+      "title": "Pride and Prejudice",
+      "author": "Jone Austen",
       "price": "$15.99",
       "copies": 3
     },
     {
       "id": 8,
-      "title": "Book Eight",
-      "author": "abdull",
-      "description": "This is the description for Book Eight.",
+      "title": "Maybe Now",
+      "author": "Colleen Hover",
       "price": "$7.99",
       "copies": 2
     },
     {
       "id": 9,
-      "title": "Book Nine",
-      "author": "hanad",
-      "description": "This is the description for Book Nine.",
+      "title": "The devil's Advocate",
+      "author": "Morris West",
       "price": "$13.99",
       "copies": 4
     },
     {
       "id": 10,
-      "title": "Book Ten",
-      "author": "musa",
-      "description": "This is the description for Book Ten.",
+      "title": "Daughter of Silence",
+      "author": "Morris West",
       "price": "$9.99",
       "copies": 5
     }
