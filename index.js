@@ -9,7 +9,7 @@ document.getElementById('get-started-btn').addEventListener('click', () => {
         const bookListContainer = document.getElementById('book-list');
   
         data.books.forEach(book => {
-          const bookElement = createBookElement(book);
+          const bookElement = createBookElement(book); 
           bookListContainer.appendChild(bookElement);  
         });
       });
