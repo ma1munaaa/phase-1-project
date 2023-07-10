@@ -4,8 +4,7 @@ This is a web application that showcases a collection of books available for pur
 
 ## LIVE LINK 
 
-- https://64aba52a51b99928f672f525--loquacious-capybara-3c8792.netlify.app/
-
+- https://64abbabc07c5a63418d76726--elaborate-concha-899311.netlify.app/
 - 
 
 ## Technologies Used
